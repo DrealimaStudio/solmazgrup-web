@@ -294,7 +294,7 @@ export default function Home() {
       >
 
         <Image
-          src="/images/land-owner.jpg"
+          src="/images/landowners-hero.jpg"
           alt="Solmaz Grup arsa değerlendirme ve kat karşılığı inşaat"
           fill
           sizes="100vw"
